@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-### Languages and Tools:
-<img align="left" alt="DotNetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
-<img align="left" alt="Ethereum" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1200px-Ethereum_logo_2014.svg.png" />
-
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=strykerin&show_icons=true&hide_border=true" />
