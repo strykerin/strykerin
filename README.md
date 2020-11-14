@@ -2,7 +2,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="DotNetCore" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />
-<img align="left" alt="Solidity" width="26px" src="https://sixpl.com/wp-content/uploads/2018/05/solidity-1520540026519.png" />
+<img align="left" alt="Ethereum" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1200px-Ethereum_logo_2014.svg.png" />
 
 
 ---
