@@ -5,6 +5,7 @@
 
 ---
 
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Blazor WebAssembly Application that sends email using SendGrid](https://medium.com/@dacosta.pereirafabio/blazor-webassembly-application-that-sends-email-using-sendgrid-ae38dd8de964)
