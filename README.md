@@ -1,11 +1,6 @@
 ### Hi there 👋
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=strykerin&show_icons=true&hide_border=true" />
-
----
-
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Blazor WebAssembly Application that sends email using SendGrid](https://medium.com/@dacosta.pereirafabio/blazor-webassembly-application-that-sends-email-using-sendgrid-ae38dd8de964)
@@ -24,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=strykerin&show_icons=true&hide_border=true" />
