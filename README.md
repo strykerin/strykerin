@@ -1,5 +1,4 @@
 ### Hi there 👋
----
 
 ### Languages and Tools:
 <img align="left" alt=".NET Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
