@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 <a>
-  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=strykerin&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.codestackr.vercel.app/api?username=strykerin/>
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strykerin&layout=compact" />
