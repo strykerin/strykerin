@@ -9,7 +9,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Blazor WebAssembly Application that sends email using SendGrid](https://medium.com/@dacosta.pereirafabio/blazor-webassembly-application-that-sends-email-using-sendgrid-ae38dd8de964)
+- [Blazor WebAssembly Application that sends email using SendGrid](https://reitter.medium.com/blazor-webassembly-application-that-sends-email-using-sendgrid-ae38dd8de964)
+- [Using Azure Data Factory Data Flow to transform and migrate data from Cosmos DB Collections](https://reitter.medium.com/using-azure-data-factory-data-flow-to-transform-and-migrate-data-from-cosmos-db-collections-30dbd858eb6d)
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
