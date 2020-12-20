@@ -10,6 +10,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Decentralized Finance Projects data with DeFi Pulse API](https://reitter.medium.com/get-defi-projects-data-with-defi-pulse-api-81721f8e6dd2)
+- [Get Uniswap data using The Graph GraphQL APIh](https://reitter.medium.com/get-uniswap-data-using-the-graph-79d0c6f7b9f2)
 - [Blazor WebAssembly Application that sends email using SendGrid](https://reitter.medium.com/blazor-webassembly-application-that-sends-email-using-sendgrid-ae38dd8de964)
 - [Using Azure Data Factory Data Flow to transform and migrate data from Cosmos DB Collections](https://reitter.medium.com/using-azure-data-factory-data-flow-to-transform-and-migrate-data-from-cosmos-db-collections-30dbd858eb6d)
 
