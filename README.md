@@ -9,6 +9,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create and deploy an Ethereum Blockchain Explorer to GitHub Pages](https://reitter.medium.com/create-and-deploy-an-ethereum-blockchain-explorer-to-github-pages-30800f5b167b)
 - [Decentralized Finance Projects data with DeFi Pulse API](https://reitter.medium.com/get-defi-projects-data-with-defi-pulse-api-81721f8e6dd2)
 - [Blazor WebAssembly Application that sends email using SendGrid](https://reitter.medium.com/blazor-webassembly-application-that-sends-email-using-sendgrid-ae38dd8de964)
 - [Get Uniswap data using The Graph GraphQL API](https://reitter.medium.com/get-uniswap-data-using-the-graph-79d0c6f7b9f2)
