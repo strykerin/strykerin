@@ -3,6 +3,7 @@
 ### Languages and Tools:
 <img align="left" alt="Ethereum" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/125px-Ethereum_logo_2014.svg.png" />
 <img align="left" alt="Solana" width="40px" src="https://static.coinpaprika.com/coin/sol-solana/logo.png?rev=10608559" />
+<img align="left" alt="Rust" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" />
 <img align="left" alt=".NET Core" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
 <br />
 
