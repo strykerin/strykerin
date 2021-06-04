@@ -11,7 +11,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create and deploy a DeFi App to Ethereum](https://reitter.medium.com/create-and-deploy-a-defi-app-to-ethereum-a02bb680aa78)
+- [Create and deploy a DeFi App to Ethereum](https://ethereum.org/en/developers/tutorials/create-and-deploy-a-defi-app/)
 - [Create and deploy an Ethereum Blockchain Explorer to GitHub Pages](https://reitter.medium.com/create-and-deploy-an-ethereum-blockchain-explorer-to-github-pages-30800f5b167b)
 - [Decentralized Finance Projects data with DeFi Pulse API](https://reitter.medium.com/get-defi-projects-data-with-defi-pulse-api-81721f8e6dd2)
 - [Blazor WebAssembly Application that sends email using SendGrid](https://reitter.medium.com/blazor-webassembly-application-that-sends-email-using-sendgrid-ae38dd8de964)
