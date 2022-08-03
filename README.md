@@ -36,10 +36,8 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strykerin" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strykerin&layout=compact" />
-</a>
+[![Strykerin github stats](https://github-readme-stats.vercel.app/api?username=strykerin&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Backend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strykerin&layout=compact&langs_count=6&hide=JavaScript,CoffeeScript,CSS,HTML,TypeScript&custom_title=Top%20Backend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Frontend Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strykerin&layout=compact&hide=C%23,Rust,Shell,PowerShell&custom_title=Top%20Frontend%20Languages&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
